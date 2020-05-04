@@ -1,4 +1,4 @@
-title = "Notre-Dame de Paris"
+title = " Blog | Manan Sharma"
 baseURL = "https://elit-altum.github.io/personal-blog/"
 languageCode = "en-us"
 theme = "ananke"
@@ -17,18 +17,18 @@ enableRobotsTXT = true
 
 [params]
   favicon = ""
-  description = "The last theme you'll ever need. Maybe."
+  description = "Manan Sharma is a designer/developer based in New Delhi. Read through some of his thoughts by going through this page."
   facebook = ""
-  twitter = "https://twitter.com/GoHugoIO"
-  instagram = ""
+  twitter = "https://twitter.com/MananSh11156920"
+  instagram = "https://www.instagram.com/s.manan3/"
   youtube = ""
-  github = ""
+  github = "https://github.com/elit-altum"
   gitlab = ""
   linkedin = ""
   mastodon = ""
   slack = ""
   stackoverflow = ""
+  show_reading_time = true
   # choose a background color from any on this page: http://tachyons.io/docs/themes/skins/ and preface it with "bg-"
-  background_color_class = "bg-black"
-  featured_image = "/images/gohugo-default-sample-hero-image.jpg"
-  recent_posts_number = 2
+  background_color_class = "bg-dark-gray"
+  recent_posts_number = 4
