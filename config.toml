@@ -1,0 +1,31 @@
+title = " Blog | Manan Sharma"
+baseURL = "https://elit-altum.github.io/personal-blog/"
+languageCode = "en-us"
+theme = "ananke"
+
+MetaDataFormat = "yaml"
+DefaultContentLanguage = "en"
+SectionPagesMenu = "main"
+Paginate = 4 
+googleAnalytics = ""
+enableRobotsTXT = true
+
+[sitemap]
+  changefreq = "monthly"
+  priority = 0.5
+  filename = "sitemap.xml"
+
+[params]
+  favicon = ""
+  description = "Manan Sharma is a designer/developer based in New Delhi. Read through some of his thoughts by going through this page."
+  facebook = ""
+  twitter = "https://twitter.com/MananSh11156920"
+  instagram = "https://www.instagram.com/s.manan3/"
+  youtube = ""
+  github = "https://github.com/elit-altum"
+  linkedin = ""
+  show_reading_time = true
+  # choose a background color from any on this page: http://tachyons.io/docs/themes/skins/ and preface it with "bg-"
+  background_color_class = "bg-dark-gray"
+  featured_image = "/images/gohugo-default-sample-hero-image.jpg"
+  recent_posts_number = 4
